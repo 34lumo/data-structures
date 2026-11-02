@@ -1,0 +1,25 @@
+# build output
+main
+*.o
+*.obj
+*.exe
+*.out
+Debug/
+Release/
+x64/
+
+# IDE
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# archives
+*.zip
